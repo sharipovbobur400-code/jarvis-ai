@@ -1,0 +1,29 @@
+# Secrets & Environment Variables
+.env
+*.env.local
+*.key
+secrets/
+credentials/
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Windows & OS generated
+*.exe
+*.dll
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
